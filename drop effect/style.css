@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+  height: 100vh;
+  background: url(waves-1651753387120-5189.jpg) center center;
+  background-size: cover;
+}
+.box {
+  background: rgba(255, 255, 255, 0.326);
+  border-radius: 2px;
+  padding: 10px;
+  text-align: center;
+  width: 14%;
+  margin: auto;
+}
